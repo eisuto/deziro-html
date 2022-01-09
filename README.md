@@ -1,4 +1,4 @@
-# deziro-html
+# 情侣心愿单
 Vue + Vuetifyjs 实现的愿望清单
 
 ## 预览
